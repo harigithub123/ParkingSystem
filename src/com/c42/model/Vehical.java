@@ -1,4 +1,4 @@
-package com.c42.parking;
+package com.c42.model;
 
 public class Vehical {
 	private String registrationNo;
